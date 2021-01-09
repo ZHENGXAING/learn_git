@@ -8,7 +8,7 @@ git commit -m 'message'
 git status
 git diff
 git log
-git refloG
+git reflog
 git reset --hard HEAD^
 git reset --hard <commit_id>
 git push origin master
