@@ -1,5 +1,5 @@
 This is my firt try for git.
-Hope i will make a good use of it and to make progress on coding.
+Hope i will make a good use of git and to make progress on coding.
 git add file_name1
 git add file_name2
 git rm file_name
@@ -12,4 +12,11 @@ git reflog
 git reset --hard HEAD^
 git reset --hard <commit_id>
 git push origin master
+git branch
+git branch <branch_name>
+git branch -d <branch_name>
+git switch <branch_name>
+git switch -c <branch_name>
+git switch <branch_name>
+git merge <branch_name>
 -----------------------end---------------------
