@@ -1,0 +1,14 @@
+This is my firt try for git.
+Hope i will make a good use of it and to make progress on coding.
+git add file_name1
+git add file_name2
+git rm file_name
+git restore file_name
+git commit -m 'message'
+git status
+git diff
+git log
+git refloG
+git reset --hard HEAD^
+git reset --hard <commit_id>
+git push origin master
